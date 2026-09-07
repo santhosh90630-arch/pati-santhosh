@@ -116,7 +116,7 @@ class TodoApp {
         if (filteredTodos.length === 0) {
             this.todoList.innerHTML = `
                 <div class="empty-state">
-                    <div class="empty-state-icon">📭</div>
+                    <div class="empty-state-icon">🗑️</div>
                     <div class="empty-state-text">
                         ${this.currentFilter === 'all' ? 'No tasks yet. Add one to get started!' : 'No ' + this.currentFilter + ' tasks.'}
                     </div>

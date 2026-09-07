@@ -17,7 +17,7 @@ A modern, feature-rich to-do list application with local storage functionality b
 - 📱 **Responsive** - Works perfectly on desktop, tablet, and mobile devices
 - 🔍 **Filter Options** - View All, Active, or Completed tasks
 - 📊 **Task Counter** - Displays total tasks and active task count
-- 🎯 **Priority Levels** - Visual indicators for task priorities (High, Medium, Low)
+- 🏷️ **Priority Levels** - Visual indicators for task priorities (High, Medium, Low)
 
 ## 🚀 How to Use
 
@@ -106,7 +106,7 @@ The application uses a single `TodoApp` class that manages:
 - **Custom Scrollbar:** Styled scrollbar for better UX
 - **Mobile Responsive:** Adapts to small screens
 
-## 🔧 Browser Compatibility
+## 🌐 Browser Compatibility
 
 - ✅ Chrome/Chromium (recommended)
 - ✅ Firefox
